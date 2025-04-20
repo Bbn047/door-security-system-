@@ -13,6 +13,7 @@
 
 // servo motor
 -- pwm - 5
+-- vcc - 5v
 
 -- led 1 (red) - 4
 -- led 2 (green) - 1
